@@ -15,18 +15,18 @@ Anteformは、人が作業を始める前にAIが情報やインターフェー�
 
 ## はじめに読む
 
-- [Manifesto](MANIFESTO.ja.md)
-- [プロジェクト概要](PROJECT_OVERVIEW.ja.md)
-- [研究課題](RESEARCH_QUESTIONS.ja.md)
-- [設計原則](DESIGN_PRINCIPLES.ja.md)
-- [公開ロードマップ / 現在地](NOW.ja.md)
-- [概念アーキテクチャ](ARCHITECTURE_OVERVIEW.ja.md)
-- [公開範囲ポリシー](DISCLOSURE_POLICY.ja.md)
-- [Issue と Discussion の方針](COMMUNITY.ja.md)
-- [プロフィール・サイト掲載文](PROFILE_AND_SITE_COPY.ja.md)
-- [研究ログ雛形](templates/RESEARCH_LOG_TEMPLATE.ja.md)
-- [技術記事雛形](templates/TECHNICAL_ARTICLE_TEMPLATE.ja.md)
-- [実験レポート雛形](templates/EXPERIMENT_REPORT_TEMPLATE.ja.md)
+- [Manifesto](docs/project/MANIFESTO.ja.md)
+- [プロジェクト概要](docs/project/PROJECT_OVERVIEW.ja.md)
+- [研究課題](docs/research/RESEARCH_QUESTIONS.ja.md)
+- [設計原則](docs/research/DESIGN_PRINCIPLES.ja.md)
+- [公開ロードマップ / 現在地](docs/research/NOW.ja.md)
+- [概念アーキテクチャ](docs/research/ARCHITECTURE_OVERVIEW.ja.md)
+- [公開範囲ポリシー](docs/participation/DISCLOSURE_POLICY.ja.md)
+- [Issue と Discussion の方針](docs/participation/COMMUNITY.ja.md)
+- [プロフィール・サイト掲載文](docs/participation/PROFILE_AND_SITE_COPY.ja.md)
+- [研究ログ雛形](templates/research/RESEARCH_LOG_TEMPLATE.ja.md)
+- [技術記事雛形](templates/writing/TECHNICAL_ARTICLE_TEMPLATE.ja.md)
+- [実験レポート雛形](templates/research/EXPERIMENT_REPORT_TEMPLATE.ja.md)
 
 ## 現在の状態
 
