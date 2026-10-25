@@ -4,7 +4,7 @@
 
 ### Rethinking Human–AI Interaction: AI as an Environment.
 
-**You do the work. AI prepares the way.**
+**An exploration of how AI could become an environment for human work.**
 
 ---
 
