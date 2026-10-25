@@ -15,18 +15,18 @@ An early-stage research and development project exploring how software can prepa
 
 ## Start here
 
-- [Manifesto](MANIFESTO.md)
-- [Project overview](PROJECT_OVERVIEW.md)
-- [Research questions](RESEARCH_QUESTIONS.md)
-- [Design principles](DESIGN_PRINCIPLES.md)
-- [Public roadmap / Now](NOW.md)
-- [Conceptual architecture](ARCHITECTURE_OVERVIEW.md)
-- [Disclosure policy](DISCLOSURE_POLICY.md)
-- [Issues and Discussions](COMMUNITY.md)
-- [Profile and website copy](PROFILE_AND_SITE_COPY.md)
-- [Research log template](templates/RESEARCH_LOG_TEMPLATE.md)
-- [Technical article template](templates/TECHNICAL_ARTICLE_TEMPLATE.md)
-- [Experiment report template](templates/EXPERIMENT_REPORT_TEMPLATE.md)
+- [Manifesto](docs/project/MANIFESTO.md)
+- [Project overview](docs/project/PROJECT_OVERVIEW.md)
+- [Research questions](docs/research/RESEARCH_QUESTIONS.md)
+- [Design principles](docs/research/DESIGN_PRINCIPLES.md)
+- [Public roadmap / Now](docs/research/NOW.md)
+- [Conceptual architecture](docs/research/ARCHITECTURE_OVERVIEW.md)
+- [Disclosure policy](docs/participation/DISCLOSURE_POLICY.md)
+- [Issues and Discussions](docs/participation/COMMUNITY.md)
+- [Profile and website copy](docs/participation/PROFILE_AND_SITE_COPY.md)
+- [Research log template](templates/research/RESEARCH_LOG_TEMPLATE.md)
+- [Technical article template](templates/writing/TECHNICAL_ARTICLE_TEMPLATE.md)
+- [Experiment report template](templates/research/EXPERIMENT_REPORT_TEMPLATE.md)
 
 ## Status
 
