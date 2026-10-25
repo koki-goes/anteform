@@ -7,11 +7,11 @@
 ## 読む場所・更新する場所
 
 - [README.md](README.md)から入り、[English](README.en.md)または[日本語](README.ja.md)を選んで、この作業規約を読みます。
-- 英語文書と`.ja.md`の日本語版を対にし、両ページの冒頭に言語リンクを置きます。
-- 対応する両言語版を一緒に更新します。プロジェクトの目的・状態は`PROJECT_OVERVIEW.md`と`PROJECT_OVERVIEW.ja.md`、`NOW.md`と`NOW.ja.md`に反映します。
-- Manifestoを編集するときは`MANIFESTO.md`と`MANIFESTO.ja.md`を更新し、元資料と後から編集した版の区別を保ちます。
-- 発信物を作る場合は、`templates/`から言語別の雛形をコピーし、必要に応じてREADMEの両言語版からリンクします。
-- 公開判断は`DISCLOSURE_POLICY.md`と`DISCLOSURE_POLICY.ja.md`の両方へ反映します。非公開実装の詳細をこのフォルダへコピーしません。
+- 英語文書と`.ja.md`の日本語版を対にし、両ページの冒頭に言語リンクを置きます。構想とManifestoは`docs/project/`、研究・設計・状態は`docs/research/`、公開・参加方針は`docs/participation/`、雛形は`templates/`内の分類フォルダに配置します。
+- 対応する両言語版を一緒に更新します。プロジェクトの目的・状態は`docs/project/PROJECT_OVERVIEW.md`と`docs/project/PROJECT_OVERVIEW.ja.md`、`docs/research/NOW.md`と`docs/research/NOW.ja.md`に反映します。
+- Manifestoを編集するときは`docs/project/MANIFESTO.md`と`docs/project/MANIFESTO.ja.md`を更新し、元資料と後から編集した版の区別を保ちます。
+- 発信物を作る場合は、`templates/research/`または`templates/writing/`から言語別の雛形をコピーし、必要に応じてREADMEの両言語版からリンクします。
+- 公開判断は`docs/participation/DISCLOSURE_POLICY.md`と`docs/participation/DISCLOSURE_POLICY.ja.md`の両方へ反映します。非公開実装の詳細をこのフォルダへコピーしません。
 
 ## 公開資料を変更する前に
 
