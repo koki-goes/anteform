@@ -1,13 +1,13 @@
-# anteform
+[![English](https://img.shields.io/badge/Language-English-2563eb?style=flat-square)](./README.md) [![日本語](https://img.shields.io/badge/Language-日本語-64748b?style=flat-square)](./README.ja.md)
 
-**An AI-Native Execution Surface**
+# Anteform
 
-[English](README.en.md) | [日本語](README.ja.md)
+### Rethinking Human–AI Interaction: AI as an Environment.
 
-> AI prepares the context. Humans make the decisions.
+**You do the work. AI prepares the way.**
 
-Anteform explores how AI can prepare information and interfaces before a person starts work, so the person can understand the context, make decisions, and create the outcome. This is an early-stage research and development project, not a released product.
+---
 
-The name combines **Ante** (“before”) and **Form**, expressing the idea of shaping information and interfaces before work begins.
+**Status:** Concept Stage
 
-**Project:** Anteform · **Manifesto:** Beyond Chat · **Research theme:** Execution Surface
+**[Read the Concept Paper →](./docs/Anteform_Concept_Paper.pdf)**
