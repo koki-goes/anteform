@@ -4,7 +4,7 @@
 
 ### Rethinking Human–AI Interaction: AI as an Environment.
 
-**An exploration of how AI could become an environment for human work.**
+*An exploration of how AI could become an environment for human work, rather than a system that does it for us.*
 
 ---
 
