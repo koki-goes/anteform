@@ -10,4 +10,4 @@
 
 **現在の段階:** 構想段階
 
-**[コンセプトペーパーを読む →](./docs/Anteform_Concept_Paper.pdf)**
+**[Concept Paperを読む →](./docs/anteform_concept_paper.pdf)**

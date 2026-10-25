@@ -10,4 +10,4 @@
 
 **Status:** Concept Stage
 
-**[Read the Concept Paper →](./docs/Anteform_Concept_Paper.pdf)**
+**[Read the Concept Paper →](./docs/anteform_concept_paper.pdf)**
